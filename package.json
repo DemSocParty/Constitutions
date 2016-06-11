@@ -1,0 +1,20 @@
+{
+  "name": "constitutions",
+  "version": "1.0.0",
+  "description": "Framework for technocratic ratification of Committee Constitutions for the Democratic Socialist Party.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemSocParty/Constitutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DemSocParty/Constitutions/issues"
+  },
+  "homepage": "https://github.com/DemSocParty/Constitutions#readme"
+}
