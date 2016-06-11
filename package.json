@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DemSocParty/Constitutions/issues"
   },
-  "homepage": "https://github.com/DemSocParty/Constitutions#readme"
+  "homepage": "https://github.com/DemSocParty/Constitutions#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
